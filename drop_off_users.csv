@@ -1,0 +1,6 @@
+UserID,Page,PageViews,SessionDuration,TrafficSource,Device,Bounce,Conversion
+1002,Products,5,180,Facebook,Mobile,Yes,No
+1004,About,2,70,Direct,Mobile,Yes,No
+1007,Checkout,1,45,Facebook,Mobile,Yes,No
+1011,About,2,80,Direct,Laptop,Yes,No
+1012,Checkout,1,40,Instagram,Mobile,Yes,No

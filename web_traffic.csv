@@ -1,0 +1,16 @@
+UserID,Page,PageViews,SessionDuration,TrafficSource,Device,Bounce,Conversion
+1001,Home,8,320,Google,Desktop,No,Yes
+1002,Products,5,180,Facebook,Mobile,Yes,No
+1003,Home,10,450,Google,Laptop,No,Yes
+1004,About,2,70,Direct,Mobile,Yes,No
+1005,Contact,3,120,Instagram,Desktop,No,No
+1006,Products,9,400,Google,Desktop,No,Yes
+1007,Checkout,1,45,Facebook,Mobile,Yes,No
+1008,Home,12,520,Google,Laptop,No,Yes
+1009,Blog,6,260,Twitter,Desktop,No,No
+1010,Products,7,310,Google,Mobile,No,Yes
+1011,About,2,80,Direct,Laptop,Yes,No
+1012,Checkout,1,40,Instagram,Mobile,Yes,No
+1013,Home,11,490,Google,Desktop,No,Yes
+1014,Blog,5,210,Twitter,Laptop,No,No
+1015,Products,8,360,Google,Desktop,No,Yes

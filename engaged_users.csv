@@ -1,0 +1,7 @@
+UserID,Page,PageViews,SessionDuration,TrafficSource,Device,Bounce,Conversion
+1001,Home,8,320,Google,Desktop,No,Yes
+1003,Home,10,450,Google,Laptop,No,Yes
+1006,Products,9,400,Google,Desktop,No,Yes
+1008,Home,12,520,Google,Laptop,No,Yes
+1013,Home,11,490,Google,Desktop,No,Yes
+1015,Products,8,360,Google,Desktop,No,Yes
